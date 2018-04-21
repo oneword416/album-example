@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import Template from "components/Template.jsx";
+
 window.onload = function() {
-  let name = "Evan";
   ReactDOM.render(
-    <h1>Hello {name}</h1>, // JSX, no quotes
+    <Template/>,
     document.getElementById("root")
-  );
+  ); // JSX, no quotes
 };

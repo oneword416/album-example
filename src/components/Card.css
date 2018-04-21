@@ -1,0 +1,13 @@
+.action {
+    overflow: auto;
+}
+
+.btn-group {
+    float: left;
+}
+
+.updateTime {
+    float: right;
+}
+
+
