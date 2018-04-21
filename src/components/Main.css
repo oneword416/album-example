@@ -1,3 +1,7 @@
-.bg-light {
-    background-color: #f8f9fa!important;
+.main.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.main.bg-light .container {
+  padding-top: 30px;
 }

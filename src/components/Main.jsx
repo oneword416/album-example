@@ -10,7 +10,7 @@ export default class Main extends React.Component {
 
   render() {
     return (
-      <div className="row bg-light">
+      <div className="main row bg-light">
         <div className="container">
           <Card />
           <Card />

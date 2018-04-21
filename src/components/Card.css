@@ -1,13 +1,15 @@
-.action {
-    overflow: auto;
+.thumbnail .action {
+  overflow: auto;
 }
 
-.btn-group {
-    float: left;
+.thumbnail .btn-group {
+  float: left;
 }
 
-.updateTime {
-    float: right;
+.thumbnail .updateTime {
+  float: right;
 }
 
-
+.thumbnail img {
+  width: 100%;
+}

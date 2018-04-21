@@ -1,11 +1,11 @@
 .jumbotron {
-    background-color: white!important;
-    padding: 100px 30px;
+  background-color: white !important;
+  padding: 100px 30px;
 }
 
 .jumbotron .container {
-    max-width: 60%!important;
+  max-width: 640px !important;
 }
 .jumbotron .text-center {
-    text-align: center;
+  text-align: center;
 }
